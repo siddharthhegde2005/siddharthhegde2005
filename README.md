@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthhegde2005
+- 👋 Hi, I’m @siddharthahegde2005
 - 👀 I’m interested in coding and learning new programming technique
 - 🌱 I’m currently learning basics involoved in coding
 - 💞️ I’m looking to collaborate on other programmers and work with them to develop new things helpful for other young developers
